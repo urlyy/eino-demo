@@ -1,0 +1,6 @@
+.env
+go.sum
+go.work.sum
+venv
+
+embedding/models/jina-embeddings-v3/model.onnx_data
